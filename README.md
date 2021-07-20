@@ -1,9 +1,10 @@
 ### Hi fellas! 👋
 
-Hi! I'm a final year computer science student exploring my interests in app development!
+Hi, I'm Azura and I'm almost complete with my CS degree this year!
 
-- 🔭 I’m currently working on my thesis! I am making a VR based game for colour blind test. I will make the code public as soon as I'm finished, so, please look forward to it :)
-- 🌱 I’m also learning many many things~~ I'm interested in various fields of programming from web, mobile, and game development to machine learning and data science. 
-- 👯 I’m looking to collaborate on anything I can contribute on that leaves an impact for other people. Particularly interested in empowering more women in tech! \\^0^/
-- 📫 How to reach me: you can find me on [linkedin](https://www.linkedin.com/in/azurast/) and take a look at my personal site @ [azura.dev/](https://azura.dev/)
+👩🏽‍💻 I like developing and building things. I'm particulary most interested in mobile (iOS) and game development. Aside from tech, I'm also highly interested int the world of UX.
+
+🤓 My current goal is to explore everything the tech world has to offer that catches my interest.
+
+📫 How to reach me: you can find me on [linkedin](https://www.linkedin.com/in/azurast/) and take a look at my personal site @ [azura.dev/](https://azura.dev/)
 
