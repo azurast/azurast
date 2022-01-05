@@ -1,6 +1,6 @@
-### Hi fellas! 👋
+### Hi there! 👋
 
-Hi, I'm Azura and I'm almost complete with my CS degree this year!
+Hi, I'm Azura, a recent fresh graduate in compsci!
 
 👩🏽‍💻 I like developing and building things. I'm particulary most interested in mobile (iOS) and game development. Aside from tech, I'm also highly interested int the world of UX.
 
