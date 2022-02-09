@@ -8,3 +8,6 @@ Hi, I'm Azura, a recent fresh graduate in compsci!
 
 📫 How to reach me: you can find me on [linkedin](https://www.linkedin.com/in/azurast/) and take a look at my personal site @ [azura.dev/](https://azura.dev/)
 
+[![Azura's GitHub stats](https://github-readme-stats.vercel.app/api?username=azurast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azurast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
