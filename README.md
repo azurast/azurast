@@ -1,15 +1,10 @@
-### Hi there! 👋
+### heeeeey! 👋
 
-Hi, I'm Azura, a recent fresh graduate in compsci!
+an early bird ios dev focused on swiftui
 
-👩🏽‍💻 I like developing and building things. I'm particulary most interested in mobile (iOS) and game development. Aside from tech, I'm also highly interested int the world of UX.
+and stop by at my [personal site](https://azura.dev/) or [medium](https://medium.com/@egesucu/tools-i-use-in-2022-ios-developer-4d810e6ce3d5) where i try my best to post ios related things
 
-🤓 My goal is to explore everything the tech world has to offer that catches my interest.
+if this page ain't enough you can connect with me on [linkedin](https://www.linkedin.com/in/azurast/) 
 
-💼 I'm currently working as an iOS Developer at Kompas
 
-📫 You can find & reach me on [linkedin](https://www.linkedin.com/in/azurast/) and take a look at my personal site @ [azura.dev/](https://azura.dev/)
-
-[![Azura's GitHub stats](https://github-readme-stats.vercel.app/api?username=azurast&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azurast&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Azura's GitHub stats](https://github-readme-stats.vercel.app/api?username=azurast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
